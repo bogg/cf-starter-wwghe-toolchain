@@ -93,7 +93,7 @@ services:
       imageUrl: https://www.ibm.com/design/assets/language/resources/icon-library/icons/svg/object-based/bee_64.svg
       documentationUrl: https://whitewater.ibm.com/about
       name: Tools, Practices, Courses
-      dashboard_url: https://whitewater.ibm.com/
+      dashboard_url:
       description: Equip product and service teams with practical resources so they can get to better outcomes, faster.
       additional-properties:
   servicecontract:
